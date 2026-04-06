@@ -1,2 +1,26 @@
-task -1 
-   front end  page design !
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TASK X2 </title>
+    <link rel="stylesheet" href="zyro.css">
+</head>
+
+<body>
+
+    <div id="container">
+
+        <button>Kidzu !!</button>
+
+         <script src="ZYRO.JS"></script>
+        <p>ZYRO !!</p>
+        <p>ZYRA !!</p>
+        <p>DHANUSH !!</p>
+        <p>BLACK HAT !!</p>
+    </div>
+
+</body>
+
+</html>
